@@ -7,7 +7,7 @@ npm run build
 cd dist
 
 
-git init
+# git init
 git add -A
 git commit -m 'deploy'
 git push -f git@github.com:harleyshugart/harleyshugart.github.io.git main
